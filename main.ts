@@ -5,7 +5,7 @@ basic.forever(function () {
     scrollbit.setIcon(
     IconNames.Ghost,
     cpos,
-    0,
+    randint(0, 2),
     58
     )
     scrollbit.show()

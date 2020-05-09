@@ -9,7 +9,7 @@ basic.forever(function () {
     58
     )
     scrollbit.show()
-    basic.pause(500)
+    basic.pause(100)
     cpos += 1
     if (cpos >= 13) {
         cpos = 0

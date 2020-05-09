@@ -6,7 +6,7 @@ basic.forever(function () {
     IconNames.Ghost,
     cpos,
     0,
-    0
+    58
     )
     scrollbit.show()
     basic.pause(500)
